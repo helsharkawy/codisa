@@ -1,0 +1,375 @@
+{
+  "reviews": [
+    {
+      "revText": "This is my second Shopify Theme I have bought and I love it! Every step of the way that I have been confused support has been there with the answers with a few hours. The fact that they are doing videos tutorials for the sections of the set up is great. I am excited to launch my store lastclothingstore.com this weekend. Thanks!!!!",
+      "name": "Eworld007",
+      "date": "November 15, 2020",
+      "rate": 5
+    },
+    {
+      "revText": "Amazing Job Guys!.. I bought this theme for my shop for baby, I am very satisfied with everything including a very good customer support. Good luck and good sales guys.",
+      "name": "Garcaspro",
+      "date": "June 25, 2021",
+      "rate": 4
+    },
+    {
+      "revText": "I would highly recommend the Wokiee theme! It is very customizable, many different options for your store front and it's simple and easy to edit. I am quite impressed with the provided documentation - it is very thorough, detailed and clear, I had no issues during setup whatsoever. The theme responds well to the non-English language - it doesn't affect the functions and there's no need to edit the code.",
+      "name": "Bigaco",
+      "date": "March 12, 2022",
+      "rate": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "imageSrc": "/productsImages/1.jpg",
+      "productName": "Little X-Ray",
+      "price": 149.90,
+      "category": "Hookah",
+      "description": " Little X-Ray is an eye-catcher day and night, because the smoke column and mouthpiece glow in the dark. Shisha fans appreciate the quality bowl with its attention to detail and the phosphorescent, artistically carved wooden smoke column.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": [
+        "Blue",
+        "Purple",
+        "Brown"
+      ],
+      "height": "65 cm",
+      "material": "wood"
+    },
+    {
+      "id": 2,
+      "imageSrc": "/productsImages/2.jpg",
+      "productName": "Tango Light",
+      "price": 149.90 ,
+      "category": "Hookah",
+      "description": "Tango Light is an exciting blend of stainless steel perfection and elegantly curved bowl.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": [
+        "Blue",
+        "Red",
+        "Black"
+      ],
+      "height":"82 cm",
+      "material": "stainless-steel"
+    },
+    {
+      "id": 3,
+      "imageSrc": "/productsImages/3.jpg",
+      "productName": "Bamboo",
+      "price": 109.90,
+      "category": "Hookah",
+      "description": "This new model from Amy Deluxe conjures a breath of Far Eastern serenity in your living room. Golden accents like the decorative rings and the golden hot screen in combination with the wooden smoke column provide a noble appearance. Thanks to the closed-chamber system, plug connection, a magnetic hose connection and a modern blow-out system below the ash plate, you don't have to do without technical refinements.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": [
+        "Blue",
+        "Black",
+        "Brown"
+      ],
+      "height": "71 cm",
+      "material": "Wood "
+    },
+    {
+      "id": 4,
+      "imageSrc": "/productsImages/4.jpg",
+      "productName": "Little Tura",
+      "price": 84.90,
+      "category": "Hookah",
+      "description": "The AMY Little Tura is a beautiful hookah from the ORIENTAL series of AMY. Here, oriental design is combined with modern know-how! The glass of the hookah is elaborately decorated with gold leaf.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": [
+        "black",
+        "clear",
+        "gold"
+      ],
+      "height": "72 cm",
+      "material": ""
+    },
+    {
+      "id": 5,
+      "imageSrc": "/productsImages/5.jpg",
+      "productName": "Alu Cone Mini",
+      "price": 54.90,
+      "category": "Hookah",
+      "description": "This powerhouse will blow you away with its compact design and its fantastic draft. At a total height of only 40cm, this model gives you everything you need for a top smoking experience and something for the eye! In the Alu Cone S, we have installed a reversed blow-out system, which shoots the exhaust air of the hookah from the base vertically upwards.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "Blue, green, red, black, clear",
+      "height": "42 cm",
+      "material": "Aluminum"
+    },
+    {
+      "id": 6,
+      "imageSrc": "/productsImages/6.jpg",
+      "productName": "Amy Gold Tabak - Purple Sea",
+      "price": 17.90,
+      "category": "Shisha",
+      "description": "Tauche mit Purple Sea tief ab in ein Meer aus fruchtigen Beeren-Aromen und surfe auf einer fruchtig intensiven Geschmackswelle nach der anderen. Poseidon steht dir bei!",
+      "vendor": "Amy Gold",
+      "availability": "Many in stock",
+      "flavour": "fruity, summery",
+      "Weight": "200 gram",
+      "taste": "Berry mix"
+    },
+    {
+      "id": 7,
+      "imageSrc": "/productsImages/7.jpg",
+      "productName": "Amy Gold Tabak - Green Eyes",
+      "price": 17.90,
+      "category": "Shisha",
+      "description": "Bei diesem spritzigen Mix von Zitrone und Ginger kann man glatt grün vor Neid werden! Also Neider aufgepasst, hier braucht ihr gar nicht 'Auge' machen. Holt euch lieber gleich Green Eyes!",
+      "vendor": "Amy Gold",
+      "availability": "Many in stock",
+      "flavour":"fruity,summery",
+      "Weight": "200 gram",
+      "taste": "lemon, ginger"
+    },
+    {
+      "id": 8,
+      "imageSrc": "/productsImages/8.jpg",
+      "productName": "Al Wazir Tabak - Greyp Mynt",
+      "price": 17.90,
+      "category": "Shisha",
+      "description": "Erlebe das intensive Aroma von Traube & Johannisbeere und probiere Greyp Mynt von Al Wazir.",
+      "vendor": "Al Wazir",
+      "availability": "Many in stock",
+      "flavour":"fruity, summery, exhilarating",
+      "Weight": "250 gram",
+      "taste": "grape, currant"
+    },
+    {
+      "id": 9,
+      "imageSrc": "/productsImages/9.jpg",
+      "productName": "Al Waha Tobacco - Fading Flower",
+      "price": 14.90,
+      "category": "Shisha",
+      "description": "Tauche mit Purple Sea tief ab in ein Meer aus fruchtigen Beeren-Aromen und surfe auf einer fruchtig intensiven Geschmackswelle nach der anderen. Poseidon steht dir bei!",
+      "vendor": "Al Waha",
+      "availability": "Many in stock",
+      "flavour": "fruity, summery, exhilarating",
+      "Weight": "200 gram",
+      "taste": "peach, iced tea"
+    },
+    {
+      "id": 10,
+      "imageSrc": "/productsImages/10.jpg",
+      "productName": "Starbuzz Tobacco - Brown Kiss",
+      "price": 23.00,
+      "category": "Shisha",
+      "description": "Fans of creamy chocolate will love Starbuzz's Brown Kiss!",
+      "vendor": "Starbuzz",
+      "availability": "Many in stock",
+      "flavour": "creamy",
+      "Weight": "200 gram",
+      "taste": "chocolate"
+    },
+    {
+      "id": 11,
+      "imageSrc": "/productsImages/11.jpg",
+      "productName": "Replacement bowl Alu Sphere Bag",
+      "price": 9.90,
+      "category": "Accessories",
+      "description": "-Original replacement glass for the AMY Shisha - High quality & thick-walled glass - Provides a safe stand",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "flavour": "",
+      "Weight": "",
+      "taste": ""
+    },
+    {
+      "id": 12,
+      "imageSrc": "/productsImages/12.jpg",
+      "productName": "Acryl Mouthpiece",
+      "price": 19.90,
+      "category": "Accessories",
+      "description": "",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "Red, Blue, Green, Brown",
+      "Weight": "",
+      "taste": ""
+    },
+    {
+      "id": 13,
+      "imageSrc": "/productsImages/13.jpg",
+      "productName": "Tube with wooden-mouthpiece",
+      "price": 4.90,
+      "category": "Accessories",
+      "description": "You are looking for a replacement glass for your hookah or just want something new? Then you are in the right place",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "Blue, Brown",
+      "Weight": "",
+      "taste": ""
+    },
+    {
+      "id": 14,
+      "imageSrc": "/productsImages/14.jpg",
+      "productName": "Ersatzglas Zuri Line",
+      "price": 39.00,
+      "category": "Accessories",
+      "description": "Du suchst ein Ersatzglas für deine Shisha oder möchtest einfach mal etwas Neues? Dann bist du hier goldrichtig",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "Red, Blue",
+      "Weight": "",
+      "taste": ""
+    },
+    {
+      "id": 15,
+      "imageSrc": "/productsImages/15.jpg",
+      "productName": "silicone tobacco head - 1-hole",
+      "price": 11.92,
+      "category": "Accessories",
+      "description": "silicone tobacco head with one hole is perfect for steam stones.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "Red, Blue, White, Black, Green",
+      "Weight": "",
+      "taste": ""
+    },
+    {
+      "id": 16,
+      "imageSrc": "/productsImages/16.jpg",
+      "productName": "Hookah Transport bag middle",
+      "price": 18.00,
+      "category": "Accessories",
+      "description": "Die Amy Deluxe Shisha Tasche 'Mittel' ist eine stabile Transporttasche und optimal geeignet für den Transport und Aufbewahrung Ihrer Shisha, im inneren der Tasche befindet sich ein zusätzlichen Fach in dem Zubehör verstaut werden kann.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "flavour": "",
+      "Height": "18 cm",
+      "taste": ""
+    },
+    {
+      "id": 17,
+      "imageSrc": "/productsImages/17.jpg",
+      "productName": "Amy Gold charcoal",
+      "price": 6.00,
+      "category": "Charcoal",
+      "description": "AMY Gold natural charcoal is produced in Indonesia and is made from coconut shells, which means that it consists of 100% natural, renewable raw materials. Therefore, it is very environmentally friendly.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "",
+      "height": "",
+      "material": ""
+    },
+    {
+      "id": 18,
+      "imageSrc": "/productsImages/18.jpg",
+      "productName": "coal lighter 'Hot Turbo' 500W",
+      "price": 19.90,
+      "category": "Charcoal",
+      "description": "The electronic coal lighter of AMY Deluxe is used especially for lighting natural coal. With an output of 500W, natural coal can be ignited particularly quickly and evenly.<br> In addition, the charcoal lighter offers space for at least 6 coals. This allows the coal to be prepared for several shishas at the same time.  <br>With this electric coal lighter you can quickly and easily make natural coal glow. Simply place pieces of coal on the inner glow wire and make it glow.",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "",
+      "height": "",
+      "material": ""
+    },
+    {
+      "id": 19,
+      "imageSrc": "/productsImages/19.jpg",
+      "productName": "BLACK COCOS Natural charcoal",
+      "price": 7.90,
+      "category": "Charcoal",
+      "description": "Black Cocos Charcoal -Long life -Lasts up to two hours -Less than 3% Ash production -100% natural & renewable raw materials -Tasteless",
+      "vendor": "ABlack Cocos",
+      "availability": "Many in stock",
+      "color": "",
+      "height": "",
+      "material": ""
+    },
+    {
+      "id": 20,
+      "imageSrc": "/productsImages/20.jpg",
+      "productName": "Fireshot Outdoorburner",
+      "price": 24.90,
+      "category": "Charcoal",
+      "description": "Gaskocher für Gaskartuschen PERFEKTER GEBRAUCH - Der Gaskocher kann in verschiedenen Bereichen verwendet werden. wie z.B: im Garten, Outdoor, beim Camping, auf der Terrasse, für deine Shisha Kohle, uvm. PRAKTISCHE GRÖSSE - Mit der kompakten Bauweise ist unser zuverlässiger Gaskocher platzsparend und kann mit handelsüblichen 190g Gaskartuschen von überall aus verwendet werden EINFACHE ANWENDUNG - Die Handhabung unseres Gaskochers ist einfach und unkompliziert. Die 190g Gaskartusche einschrauben und fertig IDEAL FÜR 190g GASKARTUSCHEN - Die dafür benötigten gängigen 190g Gaskartuschen lassen sich mühelos und schnell einsetzen.",     "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "",
+      "height": "",
+      "material": ""
+    },
+    {
+      "id": 21,
+      "imageSrc": "/productsImages/21.jpg",
+      "productName": "Coal tongs 22 cm, pointed",
+      "price": 4.50,
+      "category": "Charcoal",
+      "description": "All-purpose weapon for turning coal, stirring in the tobacco can and preparing shisha heads! There are shisha accessories you can't do without, but without shisha tongs nothing works! ",
+      "vendor": "Amy Deluxe",
+      "availability": "Many in stock",
+      "color": "",
+      "length": "42 cm",
+      "material": ""
+    },
+    {
+      "id": 22,
+      "imageSrc": "/productsImages/22.jpg",
+      "productName": "GC - Coconut Charcoal - 1KG",
+      "price": 7.90,
+      "category": "Charcoal",
+      "description": "Hersteller: GC Kohle Naturkohle aus Kokosnussschalen  Brenndauer: ca. 1,5 Std. Brickettmaße: 26 x 26 x 26 mm  Inhalt: 1 KG",
+      "vendor": "GC",
+      "availability": "Many in stock",
+      "color": "",
+      "Weight": "i Kg",
+      "material": ""
+    }
+  ],
+  "home-tabs": [
+    {
+      "bestsellers": [1,5,6,8,11,16,22],
+      "newarrivals": [2,14,21],
+      "specials": [3,4,7,10,13,17]
+    }
+  ],
+  "users": [
+    {
+      "userFirstName": "hussien",
+      "userLastName": "elsharkawy",
+      "userEmail": "hussien.alyomer90@gmail.com",
+      "userPassword": "123456",
+      "id": 1
+    },
+    {
+      "userFirstName": "a",
+      "userLastName": "a",
+      "userEmail": "hussien.alyomer90@gmail.com",
+      "userPassword": "1",
+      "id": 2
+    },
+    {
+      "userFirstName": "la",
+      "userLastName": "la",
+      "userEmail": "la@la.la",
+      "userPassword": "la",
+      "id": 3
+    },
+    {
+      "userFirstName": "s",
+      "userLastName": "s",
+      "userEmail": "s@s.s",
+      "userPassword": "s",
+      "id": 4
+    },
+    {
+      "userFirstName": "asd",
+      "userLastName": "asd",
+      "userEmail": "a@s.d",
+      "userPassword": "asd",
+      "id": 5
+    }
+  ],
+  "newsletter": [
+    {
+      "usrEmail": "hussien.alyomer90@gmail.com",
+      "id": 1
+    }
+  ]
+}

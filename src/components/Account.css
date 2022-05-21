@@ -1,0 +1,110 @@
+.account .hide {
+  display: none;
+}
+
+.account h2 {
+  text-align: center;
+  margin-bottom: 70px;
+  color: red;
+}
+
+.account h3 {
+  color: #191919;
+}
+
+.account p {
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.account label {
+  color: #191919;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.account input {
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #eee;
+  width: 100%;
+}
+
+.account input:focus {
+  outline: none;
+}
+
+.account button {
+  border: 2px solid red;
+  background-color: white;
+  color: #191919;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px 25px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.account button:hover {
+  background-color: red;
+  color: white;
+}
+
+.account .group {
+  margin-bottom: 20px;
+}
+
+.account .login .new-or-login {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(400px, 1fr))[auto-fill];
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 20px;
+}
+
+.account .login .new-or-login .new-customer {
+  border: 1px solid #eee;
+  padding: 20px 40px;
+}
+
+.account .login .new-or-login .new-customer p {
+  margin-bottom: 50px;
+}
+
+.account .login .new-or-login .new-customer a {
+  border: 2px solid red;
+  background-color: white;
+  color: #191919;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px 25px;
+  border-radius: 10px;
+  display: block;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-bottom: 20px;
+}
+
+.account .login .new-or-login .new-customer a:hover {
+  background-color: red;
+  color: white;
+}
+
+.account .login .new-or-login .log-recover {
+  border: 1px solid #eee;
+  padding: 20px 40px;
+}
+
+.account .register {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.account .register .new-account {
+  border: 1px solid #eee;
+  padding: 20px 40px;
+}
+/*# sourceMappingURL=Account.css.map */

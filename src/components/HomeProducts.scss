@@ -1,0 +1,60 @@
+.home-products {
+    padding: 50px 0;
+    .tabs-title {
+        display: flex;
+        justify-content: center;
+        li {
+            margin: 10px;
+            font-weight: bold;
+            font-size: 20px;
+            cursor: pointer;
+            &.active,
+            &:hover {
+                color: #191919;
+            }
+        }
+        
+    }
+    .tabs-content {
+        position: relative;
+        padding: 40px 0;
+        .controls {
+            position: absolute;
+            top: 5px;
+            right: 0;
+            z-index: 4;
+            span {
+                background-color: #eee;
+                font-size: 20px;
+                padding: 5px;
+                margin-right: 10px;
+                border-radius: 50%;
+                width: 25px;
+                height: 25px;
+                cursor: pointer;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: row;
+                &hover {
+                    color: #191919;
+                }
+            }
+        }
+        .tab {
+            .products-container {
+                .container { 
+                    padding: 0;
+                    width: 100%;
+                    // overflow-x: scroll;
+                    // scroll-behavior: smooth;
+                    // grid-auto-flow: column;
+                    // grid-template-columns: repeat(220px);
+                    // &::-webkit-scrollbar {
+                    //     display: none;
+                    // }
+                }
+            }
+        }
+    }
+}

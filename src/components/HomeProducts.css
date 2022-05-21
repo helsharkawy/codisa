@@ -1,0 +1,69 @@
+.home-products {
+  padding: 50px 0;
+}
+
+.home-products .tabs-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.home-products .tabs-title li {
+  margin: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.home-products .tabs-title li.active, .home-products .tabs-title li:hover {
+  color: #191919;
+}
+
+.home-products .tabs-content {
+  position: relative;
+  padding: 40px 0;
+}
+
+.home-products .tabs-content .controls {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  z-index: 4;
+}
+
+.home-products .tabs-content .controls span {
+  background-color: #eee;
+  font-size: 20px;
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.home-products .tabs-content .controls spanhover {
+  color: #191919;
+}
+
+.home-products .tabs-content .tab .products-container .container {
+  padding: 0;
+  width: 100%;
+}
+/*# sourceMappingURL=HomeProducts.css.map */

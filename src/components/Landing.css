@@ -1,0 +1,78 @@
+.landing .cat-main-items {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (calc(50% - 5px))[auto-fill];
+      grid-template-columns: repeat(auto-fill, calc(50% - 5px));
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  gap: 10px;
+}
+
+.landing .cat-main-items .cat-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.landing .cat-main-items .cat-item .cat-image img {
+  width: 100%;
+}
+
+.landing .cat-main-items .cat-item .cat-text {
+  position: absolute;
+  left: 0;
+  bottom: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  color: white;
+  -webkit-transition: .3s;
+  transition: .3s;
+  -webkit-transform: translateY(61px);
+          transform: translateY(61px);
+}
+
+.landing .cat-main-items .cat-item .cat-text h2 {
+  margin: 10px 0;
+  letter-spacing: 1px;
+  font-size: 30px;
+}
+
+.landing .cat-main-items .cat-item .cat-text p {
+  margin: 0 0 20px;
+}
+
+.landing .cat-main-items .cat-item .cat-text a {
+  padding: 10px 25px;
+  border: 1px solid white;
+  color: white;
+  -webkit-transition: .3s;
+  transition: .3s;
+  border-radius: 10px;
+}
+
+.landing .cat-main-items .cat-item .cat-text a:hover {
+  border-color: red;
+  background-color: red;
+}
+
+.landing .cat-main-items .cat-item:hover .cat-text {
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+@media (max-width: 600px) {
+  .landing .cat-main-items {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+  }
+}
+/*# sourceMappingURL=Landing.css.map */

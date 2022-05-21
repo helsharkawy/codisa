@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7ba30a3.css",
+    "main.js": "/static/js/main.6ffbb819.js",
+    "static/media/hookah.jpg": "/static/media/hookah.abe819ae3aacdcedb02b.jpg",
+    "static/media/shisha.jpg": "/static/media/shisha.deb8c78026be3c387f62.jpg",
+    "static/media/Charcoal.jpg": "/static/media/Charcoal.8030777b65a0b8a086e4.jpg",
+    "static/media/Accessories.jpg": "/static/media/Accessories.296aa7a89af64a28f6c3.jpg",
+    "static/media/logoMiny.PNG": "/static/media/logoMiny.4eb4eb17ae284159cefb.PNG",
+    "index.html": "/index.html",
+    "main.a7ba30a3.css.map": "/static/css/main.a7ba30a3.css.map",
+    "main.6ffbb819.js.map": "/static/js/main.6ffbb819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ba30a3.css",
+    "static/js/main.6ffbb819.js"
+  ]
+}

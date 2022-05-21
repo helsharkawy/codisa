@@ -1,0 +1,93 @@
+.account {
+    // padding: 100px 0;
+    .hide {
+        display: none;
+    }
+    h2 {
+        text-align: center;
+        margin-bottom: 70px;
+        color: red;
+    }
+    h3{
+        color: #191919;
+    }
+    p {
+        line-height: 1.7;
+        font-weight: 400;
+    }
+    label {
+        color: #191919;
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+    }
+    input {
+        border: none;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #eee;
+        width: 100%;
+        &:focus {
+            outline: none;
+        }
+    }
+    button {
+        border: 2px solid red;
+        background-color: white;
+        color: #191919;
+        font-weight: bold;
+        font-size: 18px;
+        padding: 10px 25px;
+        border-radius: 10px;
+        margin-right: 20px;
+        &:hover {
+            background-color: red;
+            color: white;
+        }
+    }   
+    .group {
+        margin-bottom: 20px;
+    }
+    .login {
+        .new-or-login {
+            display: grid;
+            grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+            gap: 20px;
+            .new-customer {
+                border: 1px solid #eee;
+                padding: 20px 40px;
+                p {
+                    margin-bottom: 50px;
+                }
+                a {
+                    border: 2px solid red;
+                    background-color: white;
+                    color: #191919;
+                    font-weight: bold;
+                    font-size: 18px;
+                    padding: 10px 25px;
+                    border-radius: 10px;
+                    display: block;
+                    width: fit-content;
+                    margin-bottom: 20px;
+                    &:hover {
+                        background-color: red;
+                        color: white;
+                    }
+                }
+            }
+            .log-recover {
+                border: 1px solid #eee;
+                padding: 20px 40px;
+            }
+        }
+    }
+    .register {
+        max-width: 50%;
+        margin: 0 auto;
+        .new-account {
+            border: 1px solid #eee;
+            padding: 20px 40px;
+        }
+    }
+}
